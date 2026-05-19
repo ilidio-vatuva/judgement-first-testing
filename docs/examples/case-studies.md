@@ -7,7 +7,7 @@
 
 The three cases below are **composites**, not verbatim incidents. They draw on patterns common across teams working in AI-augmented QA pipelines, with details abstracted to avoid identifying any specific product, person, or employer. Treat them as illustrative — the shape of the reasoning is the point, not the specifics of any one ticket.
 
-If you want to contribute an anonymised case from your own work, open a pull request.
+If you want to contribute an anonymised case from your own work, see [CONTRIBUTING.md](../../CONTRIBUTING.md) for the template and anonymisation checklist.
 
 ---
 
