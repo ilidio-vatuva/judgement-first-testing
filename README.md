@@ -175,6 +175,7 @@ It's a decision layer: what to automate, what to keep in human hands, and how to
 - [Human Layer](docs/03-human.md) — where a tester stays in the loop
 - [Strategic Layer](docs/04-strategic.md) — what no agent can own
 - [Case Studies](docs/examples/case-studies.md) — worked examples of the framework applied to real tickets
+- [Contributing](CONTRIBUTING.md) — how to submit an anonymised case study or propose a change
 
 ---
 

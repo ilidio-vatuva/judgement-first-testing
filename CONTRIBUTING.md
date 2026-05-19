@@ -76,3 +76,11 @@ If the answer to all three is yes, it goes in.
 ## Conduct
 
 Be straightforward. Disagree with ideas, not people. Assume the other person has read the docs and is acting in good faith. That's the whole policy.
+
+---
+
+## Questions before opening a PR
+
+If you're unsure whether a case study is anonymised enough, whether a change fits the framework's scope, or whether something is worth proposing at all, open a [GitHub issue](https://github.com/ilidio-vatuva/judgement-first-testing/issues) and tag it `question`. A short conversation upfront is cheaper than a rewritten PR.
+
+For anything that can't go in a public issue, reach out via [LinkedIn](https://www.linkedin.com/in/ilidiovatuva).
