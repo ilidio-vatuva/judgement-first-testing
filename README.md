@@ -139,6 +139,8 @@ Try this on your next ticket. No new tools required.
 
 If those three sentences are harder to write than the test plan itself, that's the point.
 
+For what this looks like on real-shaped tickets, see the [case studies](docs/examples/case-studies.md).
+
 ---
 
 ## Who This Is For

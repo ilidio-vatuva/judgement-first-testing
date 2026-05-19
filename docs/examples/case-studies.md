@@ -3,6 +3,14 @@
 > Worked examples of Judgement-First Testing applied to real-shaped tickets.
 > Names, products, and numbers are fictional. The decisions are not.
 
+## A note on these examples
+
+The three cases below are **composites**, not verbatim incidents. They draw on patterns common across teams working in AI-augmented QA pipelines, with details abstracted to avoid identifying any specific product, person, or employer. Treat them as illustrative — the shape of the reasoning is the point, not the specifics of any one ticket.
+
+If you want to contribute an anonymised case from your own work, open a pull request.
+
+---
+
 Each case follows the same shape:
 
 1. **The ticket** — what landed in the backlog.
