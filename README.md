@@ -1,7 +1,11 @@
 # Judgement-First Testing
 
+![Judgement-First Testing — What AI Can't Test: a framework for QA in the age of AI agents.](assets/what-ai-cant-test-hero.png)
+
 > *A framework for QA in the age of AI agents.*  
 > *AI should amplify the tester, not replace the thinking.*
+
+[Read the article on Medium →](https://medium.com/@ilidiovatuva/what-ai-cant-test-270a7cff1c9d)
 
 ---
 
@@ -163,6 +167,7 @@ It's a decision layer: what to automate, what to keep in human hands, and how to
 
 ## Related Work
 
+- [What AI Can't Test](https://medium.com/@ilidiovatuva/what-ai-cant-test-270a7cff1c9d) — the companion article on Medium that introduces this framework
 - [`ai-augmented-testing`](https://github.com/ilidio-vatuva/ai-augmented-testing) — the technical implementation: agents, pipelines, and automation architecture built on top of this framework
 - [`qa-platform-zero-to-one`](https://github.com/ilidio-vatuva/qa-platform-zero-to-one) — real-world QA from scratch: how these principles were applied building a QA function from the ground up
 
